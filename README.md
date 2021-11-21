@@ -5,6 +5,6 @@
 ### Прототип в фигме: https://www.figma.com/proto/6zZznhsXRMwvcQxWuoKsnA/Parcel-Delivery-App?node-id=3758%3A11387&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3758%3A11387&show-proto-sidebar=1
 ### Админка: http://51.250.19.40:3000/
 
-### История о том, как мы собирали данные https://github.com/televizor-rt/collectedData
+### История о том, как мы собирали данные: https://github.com/televizor-rt/collectedData
 
 
